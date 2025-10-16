@@ -1,0 +1,38 @@
+/* CSS Styling for apple pie recipe page */
+* {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 75px;
+    margin: 50px 0px 50px 0px;
+
+}
+
+img {
+
+    display: block;
+    margin: auto;
+
+}
+
+.description, .steps {
+
+    display: block;
+    margin: 0px 0px 50px 0px;
+    width: 750px;
+    height: auto;
+
+}
+
+#buttonup, #buttonback {
+
+    padding: 10px;
+    border: 2px solid lightslategray;
+    background-color: lightskyblue;
+
+}

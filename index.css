@@ -1,0 +1,38 @@
+/* CSS Styling for index (home) page */
+* {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+
+    font-size: 100px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 0px 10px 0px;
+
+}
+
+h3 {
+
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+
+}
+
+ol {
+
+    text-align: center;
+    display: inline;
+    width: 300px;
+
+}
+
+ol li {
+
+    color: green;
+    padding: 30px;
+
+}
